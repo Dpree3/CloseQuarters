@@ -1,0 +1,2 @@
+# CloseQuarters
+This project's purpose was to provide info about close sport games that are happening in real time. For this app, close games are those that are in the 3rd and 4th quarter and have a point difference of 7 points or lower. This project uses Python's Beautiful Soup library for webscraping data from ESPN's webiste. Djangpo REST Framework is also used to send data from the webscraper to a React Native app.
